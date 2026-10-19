@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "deny": [
+      "Edit(./notes/**)",
+      "Write(./notes/**)",
+      "Edit(./labs/**)",
+      "Write(./labs/**)",
+      "Bash(curl:*)",
+      "Bash(snow:*)"
+    ]
+  }
+}
