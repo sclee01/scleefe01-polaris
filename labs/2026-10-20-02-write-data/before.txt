@@ -1,0 +1,4 @@
+/tmp/polaris/lab01/sales/orders/metadata/.00000-b123ca0a-3792-47dd-b1a1-10ba02402ed4.metadata.json.crc
+/tmp/polaris/lab01/sales/orders/metadata/.00000-ee7d5e67-f65f-4d63-9f20-a3b074b4693a.metadata.json.crc
+/tmp/polaris/lab01/sales/orders/metadata/00000-b123ca0a-3792-47dd-b1a1-10ba02402ed4.metadata.json
+/tmp/polaris/lab01/sales/orders/metadata/00000-ee7d5e67-f65f-4d63-9f20-a3b074b4693a.metadata.json
